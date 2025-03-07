@@ -2,6 +2,7 @@
 # Employment and Visa Analytics Dashboard
 
 Welcome to our dynamic dashboard project, where data transforms into decisions! Harness the power of Excel and Power BI to delve into employment trends, visa regulations, and equitable salary distributions.
+![image](https://github.com/user-attachments/assets/5609e5ca-aa4f-4a54-9e21-c626e997659e)
 
 ## 🌟 Project Highlights
 
