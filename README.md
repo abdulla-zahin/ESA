@@ -48,4 +48,4 @@ We welcome new ideas and improvements! Feel free to fork this repository or subm
 
 ## 📞 Contact
 
-Got questions or need further information? Contact us at [Your Email/Contact Information] for more assistance.
+Got questions or need further information? Contact https://github.com/abdulla-zahin for more assistance.
